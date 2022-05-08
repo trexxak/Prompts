@@ -1,15 +1,17 @@
-## PLANSPIEL WEBANWENDUNG I
+<!-- todo: Anpassen und von Verwaltungssoftware differenzieren -->
+
+## PLANSPIEL WEBANWENDUNG
 
 ---
 
 ### Vorgaben:
 
 #### Zeit:
-vom 02.03.2022, 08:30  
-zum 07.03.2022, 16:30  
+vom ?, ?  
+zum ?, ?  
 
 #### Teams: 
-2-er Teams (4)
+? (?)
 
 #### Szenario:
 Sie sind konkurrierende Freelancing Software-Anbieter, die sich auf das unten ausgeschriebene Projekt anhand eines Prototypen bewerben. Nur ein Team bekommt die Zusage.

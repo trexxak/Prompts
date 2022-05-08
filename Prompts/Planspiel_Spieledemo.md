@@ -1,13 +1,13 @@
-## PLANSPIEL SPIELEDEMO I
+## PLANSPIEL SPIELEDEMO
 
 ---
 
 #### Zeit:
-vom 21.03.2022, 11:30  
-zum 23.02.2022, 16:30  
+vom ?, ?  
+zum ?, ?  
 
 #### Teams: 
-Einzeln.
+? (?)
 
 #### Szenario:
 Sie bewerben sich bei Trexx-Games anhand eines Prototypen eines auf Python basierenden Spiels. Nur ein Bewerber wird übernommen.

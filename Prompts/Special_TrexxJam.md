@@ -1,5 +1,3 @@
----
-
 # Trexx-Jam #2  
 ## Thema: ???
 

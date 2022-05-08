@@ -1,10 +1,11 @@
-## PLANSPIEL PORTFOLIO I
+<!-- todo: Klarere Vorgaben -->
+## PLANSPIEL PORTFOLIO
 
 ---
 
 #### Zeit:
-vom 25.04.2022 
-zum 28.04.2022  
+vom ?, ?  
+zum ?, ?  
 
 #### Szenario:
 Sie bewerben sich mittels Ihrer bisher erlernten Fähigkeiten bei dem bekannten Softwarehaus *Trexx-Wares*.  

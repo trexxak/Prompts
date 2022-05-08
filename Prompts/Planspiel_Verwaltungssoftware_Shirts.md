@@ -1,15 +1,15 @@
-## PLANSPIEL VERWALTUNGSSOFTWARE I
+## PLANSPIEL VERWALTUNGSSOFTWARE
 
 ---
 
 ### Vorgaben:
 
 #### Zeit:
-vom 17.02.2022, 08:30  
-zum 22.02.2022, 16:30  
+vom ?, ?  
+zum ?, ?  
 
 #### Teams: 
-2-er Teams (2)
+? (?)
 
 #### Szenario:
 Sie sind konkurrierende Freelancing Software-Anbieter, die sich auf dasselbe unten ausgeschriebene Projekt anhand eines Prototypen bewerben. Nur ein Team bekommt die Zusage.  
