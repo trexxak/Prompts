@@ -30,8 +30,9 @@ Beginnen Sie die Arbeit an einer solchen Webseite.
 
 #### Material (englisch):  
 
-__Video:__   
+__Videos:__   
 - [Coder Foundry - What you need to include in your developer portfolio](https://www.youtube.com/watch?v=BZLLP7Gk3ps)  
+- [Web Developer Reacts to Creative Developer Personal Portfolios](https://www.youtube.com/watch?v=viXrjkLdjsQ)
 
 __Blogs:__  
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/)
