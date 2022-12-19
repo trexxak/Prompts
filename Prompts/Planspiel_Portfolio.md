@@ -4,8 +4,8 @@
 ---
 
 #### Zeit:
-vom ?, ?  
-zum ?, ?  
+vom 19.12.2022, 13:00  
+zum 23.12.2022, 08:30  
 
 #### Szenario:
 Sie bewerben sich mittels Ihrer bisher erlernten Fähigkeiten bei dem bekannten Softwarehaus *Trexx-Wares*.  
