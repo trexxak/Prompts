@@ -26,7 +26,7 @@ Programmieren Sie innerhalb Ihres zugewiesenen Team und Zeitrahmen den Prototyp 
 >
 >#### Benötigte Features:
 >- Handling der Bestellungen (einschließlich Bezahl- und Auslieferstatus)
->- Registrierungs- und Login Formular, Warenkorb und Checkout (optional: sowie Seiten für das gesamte Produktsortiment)
+>- Registrierungs- und Login Formular, sowie Seiten für das gesamte Produktsortiment (optional: Warenkorb und Checkout)
 >- Attraktives und leicht verständliches Webseitendesign
 >
 >#### Anmerkungen:
