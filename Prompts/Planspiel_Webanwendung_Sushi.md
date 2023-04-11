@@ -7,11 +7,11 @@
 ### Vorgaben:
 
 #### Zeit:
-vom ?, ?  
-zum ?, ?  
+vom 11.04.2023, 09:30   
+zum 21.04.2023, 12:00  
 
 #### Teams: 
-? (?)
+Einzeln (3)
 
 #### Szenario:
 Sie sind konkurrierende Freelancing Software-Anbieter, die sich auf das unten ausgeschriebene Projekt anhand eines Prototypen bewerben. Nur ein Team bekommt die Zusage.
