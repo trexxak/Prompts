@@ -25,16 +25,14 @@ Programmieren Sie innerhalb Ihres zugewiesenen Team und Zeitrahmen den Prototyp 
 >
 >
 >#### Benötigte Features:
->- Handling der Kundeninformationen
 >- Handling der Bestellungen (einschließlich Bezahl- und Auslieferstatus)
->- Registrierungs- und Login Formular, Warenkorb und Checkout, sowie Seiten für das gesamte Produktsortiment als auch Produkteinzelansicht
+>- Registrierungs- und Login Formular, Warenkorb und Checkout (optional: sowie Seiten für das gesamte Produktsortiment)
 >- Attraktives und leicht verständliches Webseitendesign
 >
 >#### Anmerkungen:
 >- Plattform: Web.
->- Programmiersprache: C#.
+>- Programmiersprache: HTML/ CSS/ JS.
 >- Die Zahlungsart darf sich für den Prototypen auf Barzahlung beschränken.
->- Die Schnittstelle zu unseren Datenbanken darf für den Prototyp durch eine lokale Datenbank ersetzt werden.
 
 ---
 
